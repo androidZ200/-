@@ -1,0 +1,21 @@
+c:\users\даниил\documents\visual studio 2017\Projects\клеточный автомат\клеточный автомат\bin\Debug\клеточный автомат.exe.config
+c:\users\даниил\documents\visual studio 2017\Projects\клеточный автомат\клеточный автомат\bin\Debug\клеточный автомат.exe
+c:\users\даниил\documents\visual studio 2017\Projects\клеточный автомат\клеточный автомат\bin\Debug\клеточный автомат.pdb
+c:\users\даниил\documents\visual studio 2017\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный автомат.csprojResolveAssemblyReference.cache
+c:\users\даниил\documents\visual studio 2017\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный_автомат.settings.resources
+c:\users\даниил\documents\visual studio 2017\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный_автомат.TGOL.resources
+c:\users\даниил\documents\visual studio 2017\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный_автомат.Properties.Resources.resources
+c:\users\даниил\documents\visual studio 2017\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный автомат.csproj.GenerateResource.Cache
+c:\users\даниил\documents\visual studio 2017\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный автомат.exe
+c:\users\даниил\documents\visual studio 2017\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный автомат.pdb
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\bin\Debug\клеточный автомат.exe.config
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\bin\Debug\клеточный автомат.exe
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\bin\Debug\клеточный автомат.pdb
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный автомат.csprojAssemblyReference.cache
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный_автомат.settings.resources
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный_автомат.TGOL.resources
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный_автомат.Properties.Resources.resources
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный автомат.csproj.GenerateResource.cache
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный автомат.csproj.CoreCompileInputs.cache
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный автомат.exe
+E:\YandexDisk\YandexDisk\Projects\клеточный автомат\клеточный автомат\obj\Debug\клеточный автомат.pdb
